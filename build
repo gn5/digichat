@@ -1,0 +1,2 @@
+g++ main.cpp -o audio_loop.exe -I C:\Users\noell\Documents\GitHub\rtaudio -L C:\Users\noell\Documents\GitHub\rtaudio\build -lrtaudio -static-libgcc -static-libstdc++
+.\audio_loop.exe
